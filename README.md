@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @syedmuneebali99 || Muneeb
-- 👀 I’m interested in Programming, Making Digital Masterpieces, Problem Solving
-- 🌱 I’m currently learning Web Development to the professional level, well I'm a MERN Stack Developer and also JEE and Spring Developer ( advance java ) 
+- 👀 I’m interested in Programming, Making Digital Masterpieces, Solving Problems
+- 🌱 I’m currently learning Web Development to the professional level, well I'm a MERN Stack Developer and also Full Stack Java Developer (Spring) 
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 you can reach me via gmail : alimuneeb3565@gmail.com 
 
